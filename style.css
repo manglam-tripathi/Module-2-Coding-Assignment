@@ -23,6 +23,7 @@ body {
 
 #head:hover {
 	color:white;
+	letter-spacing:20px;
 	background-color: rgba(209, 209, 208, 0.4); 
 	transition: 1s;
 	font-weight: bolder;
